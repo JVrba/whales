@@ -1,2 +1,2 @@
 # Whales
-Data analysis project using whale data to practice SQL.
+Data analysis project using WhaleMap data to practice SQL.
